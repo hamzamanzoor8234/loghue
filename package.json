@@ -1,6 +1,6 @@
 {
   "name": "logaura",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "description": "Lightweight zero-dependency patch for colored, timestamped console output",
   "main": "index.js",
   "scripts": {
