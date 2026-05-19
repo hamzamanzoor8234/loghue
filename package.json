@@ -16,8 +16,16 @@
     "timestamp",
     "zero-dependencies"
   ],
-  "author": "",
+  "author": "hamzamanzoor <hamzamanzoor8234@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzamanzoor8234/loghue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamzamanzoor8234/loghue/issues"
+  },
+  "homepage": "https://github.com/hamzamanzoor8234/loghue#readme",
   "files": [
     "index.js",
     "README.md"

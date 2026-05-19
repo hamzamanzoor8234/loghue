@@ -78,6 +78,10 @@ initLoghue({
 });
 ```
 
+## Repository
+
+[github.com/hamzamanzoor8234/loghue](https://github.com/hamzamanzoor8234/loghue)
+
 ## License
 
 MIT
