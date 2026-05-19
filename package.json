@@ -1,0 +1,28 @@
+{
+  "name": "loghue",
+  "version": "1.0.0",
+  "description": "Lightweight zero-dependency patch for colored, timestamped console output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "loghue",
+    "console",
+    "logger",
+    "logging",
+    "ansi",
+    "colors",
+    "timestamp",
+    "zero-dependencies"
+  ],
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
