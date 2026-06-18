@@ -1,6 +1,6 @@
 {
   "name": "logaura",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Lightweight, zero-dependency global console patcher to inject beautiful, colored ANSI styles and timestamps (INFO, WARN, ERROR) into your existing application log output.",
   "main": "index.js",
   "types": "index.d.ts",
